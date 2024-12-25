@@ -19,7 +19,7 @@ function Preview() {
       </section>
       {/* Interior Image */}
       <Image
-        src="/slipstream_black.webp"
+        src="/images/black_pearl/arostealth.webp"
         alt=""
         width={0}
         height={0}
